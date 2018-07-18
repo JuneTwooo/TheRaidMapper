@@ -39,7 +39,7 @@ screen_height:
 # Coords CSV
 ######################
 
-#file:                       # Path to csv file with lat;lng for gyms to scan  (needed for scanning mode)
+#file:                       # Path to csv file with lat,lng for gyms to scan  (needed for scanning mode)
 
 # Walk Settings
 ######################
